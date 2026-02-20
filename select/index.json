@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "らいくあらいと",
+  "base_artist": "フェネック",
+  "createdAt": "2026-02-20T08:04:24.068147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "らいくあらいと",
+      "artist": "フェネック",
+      "has_synced": false,
+      "path": "select/01_らいくあらいと_フェネック.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "らいくあらいと",
+      "artist": "フェネック",
+      "has_synced": false,
+      "path": "select/pl_01_らいくあらいと_フェネック.txt"
+    }
+  ]
+}
